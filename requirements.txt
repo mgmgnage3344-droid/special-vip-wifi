@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.14.0
+speedtest-cli==2.1.3
